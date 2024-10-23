@@ -1,0 +1,1 @@
+print("Yeni Dosya Başlatılıyor")
