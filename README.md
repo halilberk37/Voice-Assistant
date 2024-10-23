@@ -1,5 +1,6 @@
-Sesli Komut Arayüzü - README
-Genel Bakış
+*Sesli Komut Arayüzü - README
+Genel Bakış*
+
 Bu Python uygulaması, kullanıcıların çeşitli sistem görevlerini kontrol etmesine, not almasına, web üzerinde arama yapmasına ve Python betiklerini çalıştırmasına olanak tanır. Arayüz, GUI için Tkinter kullanılarak oluşturulmuş olup, sesli komutları yorumlamak için SpeechRecognition ile entegre edilmiştir.
 
 Özellikler
